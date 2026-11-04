@@ -14,6 +14,7 @@ I focus on strengthening my programming fundamentals, problem-solving abilities,
 
 
 🛠️ Technical Skills
+[My Skills](https://skillicons.dev/icons?i=c,python,html,css,js,mysql,git,github,vscode)
 
 Programming: C, Python (Learning)
 Web Development: HTML, CSS, JavaScript (Learning)
